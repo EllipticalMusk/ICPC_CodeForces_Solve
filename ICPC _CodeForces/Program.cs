@@ -6,6 +6,7 @@ namespace ICPC__CodeForces
     {
         static void Main(string[] args)
         {
+            //Start Point For Sheet1 https://codeforces.com/group/MWSDmqGsZm/contest/219158
             #region
             //Sheet_1 Solve Start Points
             //A_Solve.Start();//A.Say Hello With C++
@@ -25,8 +26,6 @@ namespace ICPC__CodeForces
             //P_Solve.Start();//P.First digit!
             //Q_Solve.Start();//Q.Coordinates of a Point
             //T_Solve.Start();//T. Sort Numbers
-
-
             #endregion 
 
             Console.ReadKey();
