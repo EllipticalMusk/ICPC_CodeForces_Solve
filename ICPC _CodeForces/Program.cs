@@ -32,7 +32,8 @@ namespace ICPC__CodeForces
             //Start Point For Contest1 https://codeforces.com/group/MWSDmqGsZm/contest/326175
             #region
             //A_Winter_Sale.Start();
-            B_Memo_and_Momo.Start();
+            //B_Memo_and_Momo.Start();
+            C_Next_Alphabet.Start();
             //I_Lucky_Numbers.Start();
             #endregion
 
