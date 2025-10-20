@@ -15,7 +15,7 @@ namespace ICPC__CodeForces.Contest_1
             float a = int.Parse(parts[0]);
             float b=int.Parse(parts[1]);
             float Ans = b / (1 - (a / 100));
-            Console.WriteLine(Ans.ToString("F2")); // Output: 1.24
+            Console.WriteLine(Ans.ToString("F2")); 
 
         }
     }
