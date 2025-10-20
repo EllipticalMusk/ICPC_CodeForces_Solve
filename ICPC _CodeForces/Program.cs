@@ -1,4 +1,5 @@
 ﻿using ICPC__CodeForces.Sheet_1;
+using ICPC__CodeForces.Contest_1;
 
 namespace ICPC__CodeForces
 {
@@ -26,7 +27,14 @@ namespace ICPC__CodeForces
             //P_Solve.Start();//P.First digit!
             //Q_Solve.Start();//Q.Coordinates of a Point
             //T_Solve.Start();//T. Sort Numbers
-            #endregion 
+            //Z_Solve.Start();//Z.Hard Compare
+            #endregion
+            //Start Point For Contest1 https://codeforces.com/group/MWSDmqGsZm/contest/326175
+            #region
+            //A_Winter_Sale.Start();
+            B_Memo_and_Momo.Start();
+            //I_Lucky_Numbers.Start();
+            #endregion
 
             Console.ReadKey();
         }
