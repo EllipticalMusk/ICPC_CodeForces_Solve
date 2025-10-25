@@ -7,8 +7,8 @@ namespace ICPC__CodeForces
     {
         static void Main(string[] args)
         {
-            //Start Point For Sheet1 https://codeforces.com/group/MWSDmqGsZm/contest/219158
-            #region
+
+            #region Start Point For Sheet1 https://codeforces.com/group/MWSDmqGsZm/contest/219158
             //Sheet_1 Solve Start Points
             //A_Solve.Start();//A.Say Hello With C++
             //B_Solve.Start();//B.Basic Data Types
@@ -29,15 +29,14 @@ namespace ICPC__CodeForces
             //T_Solve.Start();//T. Sort Numbers
             //Z_Solve.Start();//Z.Hard Compare
             #endregion
-            //Start Point For Contest1 https://codeforces.com/group/MWSDmqGsZm/contest/326175
-            #region
+            #region Start Point For Contest1 https://codeforces.com/group/MWSDmqGsZm/contest/326175
             //A_Winter_Sale.Start();
             //B_Memo_and_Momo.Start();
-            C_Next_Alphabet.Start();
+            //C_Next_Alphabet.Start();
             //I_Lucky_Numbers.Start();
-            #endregion
-
-            Console.ReadKey();
-        }
+            //E_Interval_Sweep.Start();
+            F_Adding_Bits.Start();
+            #endregion 
+        }   
     }
 }

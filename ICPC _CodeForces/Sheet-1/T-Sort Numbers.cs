@@ -17,18 +17,18 @@ namespace ICPC__CodeForces.Sheet_1
                 Elements[i] = double.Parse(parts[i]);
 
             double[] sorted = Sort(Elements);
-            for(int i = 0; i < sorted.Length; i++) 
+            for (int i = 0; i < sorted.Length; i++)
             {
                 Console.WriteLine(sorted[i]);
             }
-            Console.WriteLine(); 
+            Console.WriteLine();
             for (int i = 0; i < sorted.Length; i++)
             {
                 Console.WriteLine(Elements[i]);
             }
 
         }
-        static double[] Sort(double[]input) 
+        static double[] Sort(params double[]input) 
         {
             double[] arr = (double[])input.Clone();
             for (int i = 0; i < arr.Length-1; i++) 
