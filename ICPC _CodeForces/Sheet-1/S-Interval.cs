@@ -10,11 +10,18 @@ namespace ICPC__CodeForces.Sheet_1
     {
         public static void Start()
         {
-            double Input = double.Parse(Console.ReadLine());
-            string Interval = (Input, Input) switch
+            float Input = float.Parse(Console.ReadLine());
+
+            string Output = Input switch
             {
-                (<0,<100)=>""
+                >= 0f and <= 25f => "Interval [0,25]",
+                >= 25F and <= 50F => "Interval (25,50]",
+                >= 50F and <= 75F => "Interval (50,75]",
+                >= 75F and <= 100F => "Interval (75,100]",
+                _ => "Out of Intervals"
+
             };
+            Console.WriteLine(Output);
 
 
 

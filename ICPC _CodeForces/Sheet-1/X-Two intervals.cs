@@ -11,6 +11,7 @@ namespace ICPC__CodeForces.Sheet_1
         public static void Start() 
         {
             
+
         }
     }
 }

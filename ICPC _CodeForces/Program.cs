@@ -27,9 +27,10 @@ namespace ICPC__CodeForces
             //P_Solve.Start();//P.First digit!
             //Q_Solve.Start();//Q.Coordinates of a Point
             //R__Age_in_Days.Start();
+            S_Solve.Start();//S.Interval
             //T_Solve.Start();//T. Sort Numbers
             //V_Solve.Start();//V.Comparison
-            W_Solve.Start();//W.Mathematical Expression
+            //W_Solve.Start();//W.Mathematical Expression
             //Y_Solve.Start();//Y-The last 2 digits
             //Z_Solve.Start();//Z.Hard Compare
             #endregion

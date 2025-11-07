@@ -13,7 +13,6 @@ namespace ICPC__CodeForces.Sheet_1
         {
             string input = Console.ReadLine();
             string[] parts = input.Split(' ');
-            
 
             int a = int.Parse(parts[0]),
                 b = int.Parse(parts[2]);
@@ -31,6 +30,7 @@ namespace ICPC__CodeForces.Sheet_1
                 Console.WriteLine("Yes");
             else
                 Console.WriteLine(result);
+
         }
     }
 }
