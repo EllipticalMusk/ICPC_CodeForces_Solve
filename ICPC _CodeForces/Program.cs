@@ -26,6 +26,7 @@ namespace ICPC__CodeForces
             //O_Solve.Start();//O.Calculator
             //P_Solve.Start();//P.First digit!
             //Q_Solve.Start();//Q.Coordinates of a Point
+            R__Age_in_Days.Start();
             //T_Solve.Start();//T. Sort Numbers
             //Z_Solve.Start();//Z.Hard Compare
             #endregion
@@ -35,7 +36,7 @@ namespace ICPC__CodeForces
             //C_Next_Alphabet.Start();
             //I_Lucky_Numbers.Start();
             //E_Interval_Sweep.Start();
-            F_Adding_Bits.Start();
+            //F_Adding_Bits.Start();
             #endregion 
         }   
     }

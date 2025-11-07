@@ -10,6 +10,13 @@ namespace ICPC__CodeForces.Sheet_1
     {
         public static void Start() 
         {
+            int.TryParse(Console.ReadLine(), out int Day);
+            int years = Day / 365;
+            int Remaning_Days=Day% 365;
+            int Months = Remaning_Days / 30;
+            int Days = Remaning_Days % 30;
+            Console.WriteLine($"{years} years\r\n{Months} months\r\n{Days} days\r\n"
+                );
 
         }
     }
