@@ -51,7 +51,8 @@ namespace ICPC__CodeForces
             //E_Max.Start();
             //F_Multiplication_table.Start();
             //G_Factorial.Start();
-            H_One_Prime.Start();
+            //H_One_Prime.Start();
+            I_Palindrome.Start();
             #endregion
         }
     }
