@@ -48,7 +48,10 @@ namespace ICPC__CodeForces
             //B_Even_Numbers.Start();
             //C_Even_Odd_Positive_and_Negative.Start();
             //D_Fixed_Password.Start();
-            E_Max.Start();
+            //E_Max.Start();
+            //F_Multiplication_table.Start();
+            //G_Factorial.Start();
+            H_One_Prime.Start();
             #endregion
         }
     }
