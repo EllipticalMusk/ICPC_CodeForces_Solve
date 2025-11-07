@@ -26,9 +26,9 @@ namespace ICPC__CodeForces
             //O_Solve.Start();//O.Calculator
             //P_Solve.Start();//P.First digit!
             //Q_Solve.Start();//Q.Coordinates of a Point
-            R__Age_in_Days.Start();
+            //R__Age_in_Days.Start();
             //T_Solve.Start();//T. Sort Numbers
-            //Z_Solve.Start();//Z.Hard Compare
+            Z_Solve.Start();//Z.Hard Compare
             #endregion
             #region Start Point For Contest1 https://codeforces.com/group/MWSDmqGsZm/contest/326175
             //A_Winter_Sale.Start();
