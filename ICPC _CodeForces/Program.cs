@@ -28,7 +28,9 @@ namespace ICPC__CodeForces
             //Q_Solve.Start();//Q.Coordinates of a Point
             //R__Age_in_Days.Start();
             //T_Solve.Start();//T. Sort Numbers
-            Z_Solve.Start();//Z.Hard Compare
+            V_Solve.Start();
+            //Y_Solve.Start();//Y-The last 2 digits
+            //Z_Solve.Start();//Z.Hard Compare
             #endregion
             #region Start Point For Contest1 https://codeforces.com/group/MWSDmqGsZm/contest/326175
             //A_Winter_Sale.Start();
@@ -38,6 +40,6 @@ namespace ICPC__CodeForces
             //E_Interval_Sweep.Start();
             //F_Adding_Bits.Start();
             #endregion 
-        }   
+        }
     }
 }
