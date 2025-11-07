@@ -28,7 +28,8 @@ namespace ICPC__CodeForces
             //Q_Solve.Start();//Q.Coordinates of a Point
             //R__Age_in_Days.Start();
             //T_Solve.Start();//T. Sort Numbers
-            V_Solve.Start();
+            //V_Solve.Start();//V.Comparison
+            W_Solve.Start();//W.Mathematical Expression
             //Y_Solve.Start();//Y-The last 2 digits
             //Z_Solve.Start();//Z.Hard Compare
             #endregion
