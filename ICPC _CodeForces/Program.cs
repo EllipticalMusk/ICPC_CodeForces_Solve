@@ -52,7 +52,12 @@ namespace ICPC__CodeForces
             //G_Factorial.Start();
             //H_One_Prime.Start();
             //I_Palindrome.Start();
-            J_Primes_from_1_to_n.Start();
+            //J_Primes_from_1_to_n.Start();
+            //K_Divisors.Start();
+            //L_GCD.Start();
+            //N_Numbers_Histogram.Start();
+            //O_Pyramid.Start();
+            P_Shape1.Start();
             #endregion
         }
     }
