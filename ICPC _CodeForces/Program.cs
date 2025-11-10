@@ -42,7 +42,6 @@ namespace ICPC__CodeForces
             //E_Interval_Sweep.Start();
             //F_Adding_Bits.Start();
             #endregion
-
             #region Start Point For Sheet2 https://codeforces.com/group/MWSDmqGsZm/contest/219432
             //A_1_to_N.Start();
             //B_Even_Numbers.Start();
@@ -52,7 +51,8 @@ namespace ICPC__CodeForces
             //F_Multiplication_table.Start();
             //G_Factorial.Start();
             //H_One_Prime.Start();
-            I_Palindrome.Start();
+            //I_Palindrome.Start();
+            J_Primes_from_1_to_n.Start();
             #endregion
         }
     }
