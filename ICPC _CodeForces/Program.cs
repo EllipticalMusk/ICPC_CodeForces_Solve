@@ -57,7 +57,8 @@ namespace ICPC__CodeForces
             //L_GCD.Start();
             //N_Numbers_Histogram.Start();
             //O_Pyramid.Start();
-            P_Shape1.Start();
+            //P_Shape1.Start();
+            Q_Digits.Start();
             #endregion
         }
     }
