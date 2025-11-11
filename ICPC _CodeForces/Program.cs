@@ -55,10 +55,13 @@ namespace ICPC__CodeForces
             //J_Primes_from_1_to_n.Start();
             //K_Divisors.Start();
             //L_GCD.Start();
+            //M_Lucky_Numbers.Start();
             //N_Numbers_Histogram.Start();
             //O_Pyramid.Start();
             //P_Shape1.Start();
-            Q_Digits.Start();
+            //Q_Digits.Start();
+            //S_Sum_of_Consecutive_Odd_Numbers.Start();
+            T_Shape2.Start();
             #endregion
         }
     }
