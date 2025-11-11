@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Utilty Function To help Save Time
 namespace ICPC__CodeForces
 {
     public static class Utils
